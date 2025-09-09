@@ -1,6 +1,4 @@
-# Code Alpha Cyber Security Internship  
-
-## Task 1: Basic Network Sniffer  
+# Task 1: Basic Network Sniffer  
 
 This is my first internship project with **Code Alpha**, where I built a simple **Network Sniffer in Python**.  
 The tool captures and analyzes network packets on a Windows machine.  
@@ -28,4 +26,5 @@ The tool captures and analyzes network packets on a Windows machine.
 3. Run:  
    ```bash
    python sniffer.py
+
 
